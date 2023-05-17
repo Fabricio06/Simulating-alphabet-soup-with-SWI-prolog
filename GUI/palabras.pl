@@ -1,0 +1,1 @@
+palabras([lupita, pedro, zorro, sapo, dado, luis, sol]).
